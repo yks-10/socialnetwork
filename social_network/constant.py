@@ -1,0 +1,8 @@
+PENDING = 'Pending'
+ACCEPTED = 'Accepted'
+REJECTED = 'Rejected'
+STATUS =[
+    (PENDING, PENDING),
+    (ACCEPTED, ACCEPTED),
+    (REJECTED, REJECTED),
+]
